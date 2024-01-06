@@ -1,0 +1,15 @@
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\bin\Debug\net7.0\SocialMedia.Reposatory.deps.json
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\bin\Debug\net7.0\SocialMedia.Reposatory.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\bin\Debug\net7.0\SocialMedia.Reposatory.pdb
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\bin\Debug\net7.0\SocialMedia.Core.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\bin\Debug\net7.0\SocialMedia.Core.pdb
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.csproj.AssemblyReference.cache
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.AssemblyInfoInputs.cache
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.AssemblyInfo.cs
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.csproj.CoreCompileInputs.cache
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.csproj.CopyComplete
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\refint\SocialMedia.Reposatory.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\SocialMedia.Reposatory.pdb
+D:\tasks\SocialMedia.Api\SocialMedia.Reposatory\obj\Debug\net7.0\ref\SocialMedia.Reposatory.dll

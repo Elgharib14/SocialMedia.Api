@@ -1,0 +1,15 @@
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\bin\Debug\net7.0\SocialMedia.Servecs.deps.json
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\bin\Debug\net7.0\SocialMedia.Servecs.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\bin\Debug\net7.0\SocialMedia.Servecs.pdb
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.AssemblyInfoInputs.cache
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.AssemblyInfo.cs
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.csproj.CoreCompileInputs.cache
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\refint\SocialMedia.Servecs.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.pdb
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\ref\SocialMedia.Servecs.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\bin\Debug\net7.0\SocialMedia.Core.dll
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\bin\Debug\net7.0\SocialMedia.Core.pdb
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.csproj.AssemblyReference.cache
+D:\tasks\SocialMedia.Api\SocialMedia.Servecs\obj\Debug\net7.0\SocialMedia.Servecs.csproj.CopyComplete
